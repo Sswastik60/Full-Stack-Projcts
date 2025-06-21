@@ -24,6 +24,8 @@ boxes.forEach((btn) => {
             btn.innerText = "X";
             turnO = true;
         }
-        btn.disabled = true;  
+        btn.disabled = true;
+        
+        // const checkwinner =
     });  
 });
