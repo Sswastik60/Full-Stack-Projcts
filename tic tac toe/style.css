@@ -30,7 +30,6 @@ h1:hover{
   height: 70vh;
   width: 70vh;
   margin: auto;
-  
 }
 
 .mainbox{ 
@@ -74,7 +73,7 @@ h1:hover{
   
 }
 
-.resetbtn button{
+.resetbtn{
   color: rgb(19, 197, 138);
   font-family: 'Courier New', Courier, monospace;
   background-color: rgb(65, 103, 90);
@@ -82,11 +81,21 @@ h1:hover{
   padding: 10px;
   height: 20;
   width: fit-content;
-  margin-bottom: 10px;
   transition: ease-in 0.3s ;
 }
 
 .resetbtn button:hover{
   color: rgb(0, 0, 0);
   background-color: aquamarine;
+}
+
+.winnertext{
+  color: rgb(2, 252, 168);
+  font-family: 'Courier New', Courier, monospace;
+  margin: auto;
+  padding: 10px;
+  height: 20;
+  font-weight: 300;
+  width: fit-content;
+  margin-bottom: 10px;
 }
