@@ -193,3 +193,73 @@ span{
     box-shadow:#ff6060 ;
 }
 
+.services{
+    display: flex;
+    position: relative;
+    bottom: 22rem;
+}
+
+.services span{
+    font-size: 4rem;
+    box-shadow: #ff6060;
+    font-weight: 700;
+    text-shadow: #ff6060;
+    offset: 1rem;
+    justify-content: center;
+}
+
+.services p{
+    font-size: 2rem;
+}
+
+.services-info{
+    font-size: 2rem;
+    position: relative;
+    bottom: 40rem;
+    background-color: #191919;
+}
+
+.services-info .services-img{
+    
+}
+
+.services-info .services-img .weight-training span{
+    font-size: 2.6rem;
+    box-shadow: #ff6060;
+    font-weight: 700;
+    background-color: #111;
+    padding: 1rem;
+    border-radius: 1rem;
+    transition: all 0.8s ease;
+}
+
+.services-info .services-img .weight-training span:hover{
+    text-shadow: 0 0 1px #ff6060, 0 0 2px #ff6060, 0 0 1px #ff6060;
+    color: #fff;
+    }
+
+.services-info .services-img .weight-training img{
+    width: 60rem;
+    height:30rem;
+    display: flex;
+    position: relative;
+    left: 38rem;
+    bottom: 30rem;
+    border: 1px solid #ff6060;
+}
+
+.services-info .services-img .weight-training p{
+    font-weight: 3rem ;
+}
+
+.services-info .services-img .weight-training video{
+    width: 60rem;
+    height:30rem;
+    display: flex;
+    position: relative;
+    left: 38rem;
+    bottom: 30rem;
+    border: 1px solid #ff6060;
+
+}
+    
