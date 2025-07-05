@@ -1,4 +1,5 @@
-<a href="rsfitnessrajgangpur.neocities.org">Demo (Work in progress)</a>
+🌐 **Live Website(Work in progress)**: [Click here to visit the gym website](https://rsfitnessrajgangpur.neocities.org)
+
 
 ## 🚀 Features
 
