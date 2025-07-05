@@ -38,4 +38,4 @@ Free to use and customize for personal or educational purposes.
 
 ---
 
-> Designed and developed by [Swastik Sharma](rsfitnessrajgangpur.neocities.org)
+> Designed and developed by [Swastik Sharma](https://github.com/Sswastik60)
